@@ -1,0 +1,13 @@
+.charts-container {
+  display: flex;
+  justify-content: space-between;
+}
+  
+.chart {
+  flex: 0 0 48%; /* Adjust width of each chart as needed */
+  margin-right: 23px;
+}
+  
+.header--title {
+  margin-bottom: 20px;
+}
