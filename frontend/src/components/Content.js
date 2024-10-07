@@ -1,7 +1,7 @@
 import React from 'react'
 import ContentHeader from './ContentHeader'
 import Card from './Card'
-import RoboList from './RoboList';
+import RoboList from './RoboList'
 import '../styles/content.css';
 
 
